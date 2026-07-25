@@ -4,7 +4,7 @@ Senior .NET engineer. I build backend systems with C#, ASP .NET Core, and Postgr
 
 ### Tech I work with
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspdotnet,aws,docker,postgres,redis,angular,react" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,docker,postgres,redis,angular,react" />
 </p>
 
 ### Reach me
