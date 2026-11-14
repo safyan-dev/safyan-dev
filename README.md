@@ -1,6 +1,6 @@
 # Hi, I'm Safyan 👋
 
-Senior .NET engineer. I build backend systems with C#, ASP .NET Core, and PostgreSQL.
+Software engineer, mostly backend, but also comfortable across the stack. Primarily working with C#/.NET.
 
 ### Tech I work with
 <p align="center">
